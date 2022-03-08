@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bd",
+    "\\css",
+    "\\js",
+    "\\procesos"
   ],
+  "SelectedNode": "\\registro.php",
   "PreviewInSolutionExplorer": false
 }

@@ -9,5 +9,6 @@ function validarFormVacio(formulario){
 			vacios++;
 		}
 	}
-	return vacios;
+    return vacios;
+    //return nada;
 	}
